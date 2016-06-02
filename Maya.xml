@@ -28,7 +28,7 @@
       <grid>true</grid>
       <snapCenter>true</snapCenter>
       <category>Maya</category>
-      <heightDelta>0</heightDelta>
+      <heightDelta>1</heightDelta>
       <gridSubdivision>1</gridSubdivision>
       <recolorable>true</recolorable>
       <shader>Diffuse</shader>
