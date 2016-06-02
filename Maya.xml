@@ -147,7 +147,7 @@
       <grid>false</grid>
       <snapCenter>false</snapCenter>
       <category>Maya</category>
-      <heightDelta>1</heightDelta>
+      <heightDelta>0.2</heightDelta>
       <gridSubdivision>1</gridSubdivision>
       <recolorable>true</recolorable>
       <shader>Diffuse</shader>
@@ -297,7 +297,7 @@
       <Type>deco</Type>
       <inGameName>Saeule3</inGameName>
       <price>0</price>
-      <grid>true</grid>
+      <grid>false</grid>
       <snapCenter>false</snapCenter>
       <category>Maya</category>
       <heightDelta>1</heightDelta>
@@ -314,7 +314,7 @@
       <Type>deco</Type>
       <inGameName>Saeule2</inGameName>
       <price>0</price>
-      <grid>true</grid>
+      <grid>false</grid>
       <snapCenter>false</snapCenter>
       <category>Maya</category>
       <heightDelta>1</heightDelta>
@@ -331,7 +331,7 @@
       <Type>deco</Type>
       <inGameName>Saeule1</inGameName>
       <price>0</price>
-      <grid>true</grid>
+      <grid>false</grid>
       <snapCenter>false</snapCenter>
       <category>Maya</category>
       <heightDelta>1</heightDelta>
