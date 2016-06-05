@@ -28,7 +28,7 @@
       <grid>true</grid>
       <snapCenter>true</snapCenter>
       <category>Maya</category>
-      <heightDelta>0</heightDelta>
+      <heightDelta>1</heightDelta>
       <gridSubdivision>1</gridSubdivision>
       <recolorable>true</recolorable>
       <shader>Diffuse</shader>
@@ -127,10 +127,10 @@
       <Type>deco</Type>
       <inGameName>Lianen2</inGameName>
       <price>0</price>
-      <grid>true</grid>
+      <grid>false</grid>
       <snapCenter>false</snapCenter>
       <category>Maya</category>
-      <heightDelta>1</heightDelta>
+      <heightDelta>0.2</heightDelta>
       <gridSubdivision>1</gridSubdivision>
       <recolorable>true</recolorable>
       <shader>Diffuse</shader>
@@ -147,7 +147,7 @@
       <grid>false</grid>
       <snapCenter>false</snapCenter>
       <category>Maya</category>
-      <heightDelta>1</heightDelta>
+      <heightDelta>0.2</heightDelta>
       <gridSubdivision>1</gridSubdivision>
       <recolorable>true</recolorable>
       <shader>Diffuse</shader>
@@ -297,10 +297,10 @@
       <Type>deco</Type>
       <inGameName>Saeule3</inGameName>
       <price>0</price>
-      <grid>true</grid>
+      <grid>false</grid>
       <snapCenter>false</snapCenter>
       <category>Maya</category>
-      <heightDelta>1</heightDelta>
+      <heightDelta>0.2</heightDelta>
       <gridSubdivision>1</gridSubdivision>
       <recolorable>true</recolorable>
       <shader>Diffuse</shader>
@@ -314,10 +314,10 @@
       <Type>deco</Type>
       <inGameName>Saeule2</inGameName>
       <price>0</price>
-      <grid>true</grid>
+      <grid>false</grid>
       <snapCenter>false</snapCenter>
       <category>Maya</category>
-      <heightDelta>1</heightDelta>
+      <heightDelta>0.2</heightDelta>
       <gridSubdivision>1</gridSubdivision>
       <recolorable>true</recolorable>
       <shader>Diffuse</shader>
@@ -331,10 +331,10 @@
       <Type>deco</Type>
       <inGameName>Saeule1</inGameName>
       <price>0</price>
-      <grid>true</grid>
+      <grid>false</grid>
       <snapCenter>false</snapCenter>
       <category>Maya</category>
-      <heightDelta>1</heightDelta>
+      <heightDelta>0.2</heightDelta>
       <gridSubdivision>1</gridSubdivision>
       <recolorable>true</recolorable>
       <shader>Diffuse</shader>
@@ -348,10 +348,10 @@
       <Type>deco</Type>
       <inGameName>Statue3</inGameName>
       <price>0</price>
-      <grid>true</grid>
-      <snapCenter>true</snapCenter>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
       <category>Maya</category>
-      <heightDelta>1</heightDelta>
+      <heightDelta>0.2</heightDelta>
       <gridSubdivision>1</gridSubdivision>
       <recolorable>true</recolorable>
       <shader>Diffuse</shader>
@@ -382,10 +382,10 @@
       <Type>deco</Type>
       <inGameName>Statue2</inGameName>
       <price>0</price>
-      <grid>true</grid>
-      <snapCenter>true</snapCenter>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
       <category>Maya</category>
-      <heightDelta>1</heightDelta>
+      <heightDelta>0.2</heightDelta>
       <gridSubdivision>1</gridSubdivision>
       <recolorable>true</recolorable>
       <shader>Diffuse</shader>
@@ -624,6 +624,121 @@
       <snapCenter>false</snapCenter>
       <category>Maya</category>
       <heightDelta>0.2</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>786D5F</Color1>
+      <Color2>51FF00</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Maya@schale</OBJName>
+      <Type>deco</Type>
+      <inGameName>Feuerschale</inGameName>
+      <price>0</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Maya</category>
+      <heightDelta>0.2</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Maya@Statue10</OBJName>
+      <Type>deco</Type>
+      <inGameName>Statue10</inGameName>
+      <price>0</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Maya</category>
+      <heightDelta>0.2</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>786D5F</Color1>
+      <Color2>51FF00</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Maya@Statuen11</OBJName>
+      <Type>deco</Type>
+      <inGameName>Statuen11</inGameName>
+      <price>0</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Maya</category>
+      <heightDelta>0.2</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>786D5F</Color1>
+      <Color2>51FF00</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Maya@Wand5</OBJName>
+      <Type>deco</Type>
+      <inGameName>Wand5</inGameName>
+      <price>0</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Maya</category>
+      <heightDelta>1</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>786D5F</Color1>
+      <Color2>51FF00</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Maya@Stufe1</OBJName>
+      <Type>deco</Type>
+      <inGameName>Stufe1</inGameName>
+      <price>0</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Maya</category>
+      <heightDelta>1</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>786D5F</Color1>
+      <Color2>51FF00</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Maya@Stufe3</OBJName>
+      <Type>deco</Type>
+      <inGameName>Stufe3</inGameName>
+      <price>0</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Maya</category>
+      <heightDelta>1</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>786D5F</Color1>
+      <Color2>51FF00</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Maya@Stufe2</OBJName>
+      <Type>deco</Type>
+      <inGameName>Stufe2</inGameName>
+      <price>0</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Maya</category>
+      <heightDelta>1</heightDelta>
       <gridSubdivision>1</gridSubdivision>
       <recolorable>true</recolorable>
       <shader>Diffuse</shader>
